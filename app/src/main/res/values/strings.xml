@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FilmSongs_Victor</string>
+    <string name="falloToast">"Lo sentimos , mas suerte con la siguiente"</string>
+    <string name="dialogMsg">"Has completado el juego!, ¿Quieres volver a jugar?"</string>
+    <string name="no">"NO"</string>
+    <string name="si">"SI"</string>
+
+    <plurals
+        name="msg_acierto">
+        <item quantity="one">Has acertado! Ya solo falta %d</item>
+        <item quantity="other">Has acertado! Ya solo faltan %d</item>
+    </plurals>
+
+</resources>
